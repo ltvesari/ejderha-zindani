@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ejderha-zindani/static/css/main.dcb39348.css",
+    "main.js": "/ejderha-zindani/static/js/main.ae30f209.js",
+    "index.html": "/ejderha-zindani/index.html",
+    "main.dcb39348.css.map": "/ejderha-zindani/static/css/main.dcb39348.css.map",
+    "main.ae30f209.js.map": "/ejderha-zindani/static/js/main.ae30f209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcb39348.css",
+    "static/js/main.ae30f209.js"
+  ]
+}
